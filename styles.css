@@ -49,12 +49,10 @@ body {
     color: var(--color-slate5);
 }
 
-.card-content p{
-    font-family: var(--font-primary);
-}
 
 #title-txt{
     font-weight: var(--font-weight-lg);
+    font-size: var(--font-size-p);
     color: var(--color-slate9);
     margin-top: 1rem;
 }
@@ -67,4 +65,8 @@ body {
     gap: .8em;
     text-align: center;
     padding: 0 .8rem;
+    font-family: var(--font-primary);
 }
+
+
+
